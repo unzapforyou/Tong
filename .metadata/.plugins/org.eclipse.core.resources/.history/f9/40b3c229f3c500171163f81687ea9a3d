@@ -1,0 +1,12 @@
+package com.test;
+
+public class Test02 {
+
+	public static void main(String[] args) {
+		int = "이히히";
+		String ar="진구진구";
+		System.out.println(ar);
+
+	}
+
+}
